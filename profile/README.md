@@ -35,7 +35,7 @@ the findings, plus the OSINT tooling the work runs on.
 Security tools built for our own work and left installable. Every one sets itself up
 with a single command regardless of dependencies, operating system, or complexity.
 
-```sh
+```
 curl -fsSL https://angelamos.com/<tool>/install.sh | bash
 ```
 
