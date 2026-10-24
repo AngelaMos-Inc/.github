@@ -56,7 +56,7 @@ way in, kept public so the next person does not have to reassemble it themselves
 
 ---
 
-Built and run by one person &nbsp;·&nbsp; [carterperez@angelamos.com](mailto:carterperez@angelamos.com)
+Contact &nbsp;·&nbsp; [carterperez@angelamos.com](mailto:carterperez@angelamos.com)
 
 ```ruby
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢘⢦⠍⣩⣿⣿⣿⣟⠼⠻⣝⢯⡝⡯⢃⡿⣽⠃⣼⢏⣿⣹⣝⢯⡻⣝⢯⡻⣝⣯⢻⡝⣶⠂⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
